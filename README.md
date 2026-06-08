@@ -93,3 +93,8 @@ The content of this repository is bound by the following licenses:
 
 - The computer software is licensed under the [BSD-3-Clause](LICENSE.md) license.
 - The learning resources in the [`/curriculum`](/curriculum) directory including their subdirectories therein are copyright © 2014 freeCodeCamp.org
+- ## Assignment Note
+
+I forked the freeCodeCamp repository on GitHub and explored its codebase. I reviewed the README.md file, folder structure, and package.json file to understand the project organization and dependencies.
+
+This activity helped me learn how open-source projects are managed and how developers collaborate using GitHub.
